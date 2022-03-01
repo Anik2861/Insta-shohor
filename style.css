@@ -12,12 +12,14 @@
     
     
 }
+/* single details font style */
 .font-color{
-    background-color: rgb(15, 50, 252);
+    background-color: rgba(13, 13, 196, 0.616);;
     color: white;
     border-radius: 20px;
     text-align: center;
 }
+
 
 /* img center */
 
